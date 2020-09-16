@@ -11,7 +11,11 @@
     "start": "parcel src/index.html",
     "build-prod": "parcel build src/index.html"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.11.0"
+  },
   "devDependencies": {
     "@becode/eslint-config": "^0.10.0",
     "babel-eslint": "^10.1.0",
