@@ -22,3 +22,6 @@ To create a production build:
 npm run build-prod
 ```
 
+## Url of the app hosted on Netlify
+
+https://objective-nightingale-37c25c.netlify.app/
