@@ -1,6 +1,6 @@
-# empty-project
+# Pomodoro Clock react
 
-Empty project.
+Here is a timer made in react to work with the pomodoro method. By default a working session takes 25 minutes and a break session takes 5 minutes. But there are buttons to increase or decrease the time of each session. This project was done as part of a training at Becode.org.
 
 ## Building and running on localhost
 
@@ -21,14 +21,4 @@ To create a production build:
 ```sh
 npm run build-prod
 ```
-
-## Running
-
-```sh
-node dist/bundle.js
-```
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
 
